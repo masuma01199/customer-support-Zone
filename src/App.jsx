@@ -3,6 +3,7 @@ import "./App.css";
 import Banner from "./Components/Banner/Banner";
 import CustomerService from "./Components/CustomerService/CustomerService";
 import Navbar from "./Components/Navbar/Navbar";
+import Footer from "./Components/Footer/Footer";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
