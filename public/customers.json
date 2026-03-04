@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login page not loading",
+    "description": "Customer reports that the login page shows a blank screen after submitting credentials.",
+    "customer": "Rahim Uddin",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01T09:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment failed but amount deducted",
+    "description": "Customer was charged but order confirmation was not generated.",
+    "customer": "Nusrat Jahan",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T10:22:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Unable to reset password",
+    "description": "Password reset email is not being received.",
+    "customer": "Arif Hossain",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-02T08:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "App crashing on checkout",
+    "description": "Mobile app crashes when proceeding to checkout.",
+    "customer": "Sadia Islam",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-02T11:30:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Profile picture not updating",
+    "description": "Customer cannot upload or change profile picture.",
+    "customer": "Tanvir Ahmed",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-03-02T14:05:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Order history missing",
+    "description": "Past orders are not visible in the dashboard.",
+    "customer": "Mim Akter",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-03T09:10:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Discount code not applying",
+    "description": "Promo code shows invalid even though it is active.",
+    "customer": "Fahim Rahman",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-03T10:55:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Email notifications not received",
+    "description": "Customer is not receiving order confirmation emails.",
+    "customer": "Jannat Chowdhury",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-03T12:40:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Shipping address cannot be updated",
+    "description": "System throws error when trying to edit shipping address.",
+    "customer": "Rafiul Karim",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-03T15:20:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Slow website performance",
+    "description": "Website takes too long to load product pages.",
+    "customer": "Sumaiya Hasan",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2026-03-04T08:05:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Refund not processed",
+    "description": "Customer requested refund 7 days ago but has not received it.",
+    "customer": "Hasan Mahmud",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2026-03-04T09:25:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Two-factor authentication issue",
+    "description": "OTP code is not being accepted during login.",
+    "customer": "Farzana Kabir",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-04T11:00:00Z"
+  }
+]
